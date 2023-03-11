@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="todo">TODO</string>
+    <string name="Welcome_text">Android Studio\nSimple Login Page</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Developement Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="reset">Reset?</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="hello_again2">Welcome back you\'ve\nbeen missed!</string>
+    <string name="logout">Logout</string>
+    <string name="textview">TextView</string>
+</resources>
