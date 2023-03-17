@@ -2,7 +2,7 @@
     <string name="app_name">Login Page</string>
     <string name="todo">TODO</string>
     <string name="Welcome_text">Android Studio\nSimple Login Page</string>
-    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Developement Laboratory</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
     <string name="get_started">Get Started</string>
     <string name="username">Enter Username</string>
     <string name="enter_password">Enter Password</string>
