@@ -9,7 +9,7 @@
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/main_bg"
         android:layout_width="334dp"
-        android:layout_height="341dp"
+        android:layout_height="334dp"
         android:layout_margin="5dp"
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
