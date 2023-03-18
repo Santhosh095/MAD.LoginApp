@@ -9,12 +9,11 @@ import android.widget.TextView
 import android.widget.Toast
 
 class ActivityPage : AppCompatActivity() {
-    private val message = "Invalid credentials"
+    private val message = "Invalid Username or Password"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_page)
         supportActionBar?.hide()
-        supportActionBar?.setDisplayShowTitleEnabled(false)
 
         val userId: EditText = findViewById(R.id.username_edittext)
         val pass: EditText = findViewById(R.id.password_edittext)

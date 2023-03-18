@@ -13,7 +13,6 @@ class WelcomePage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_welcome_page)
         supportActionBar?.hide()
-        supportActionBar?.setDisplayShowTitleEnabled(false)
 
         val userId: TextView = findViewById(R.id.textView)
         val pass: TextView = findViewById(R.id.textView2)
