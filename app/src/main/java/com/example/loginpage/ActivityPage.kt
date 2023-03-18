@@ -14,6 +14,7 @@ class ActivityPage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_page)
         supportActionBar?.hide()
+        supportActionBar?.setDisplayShowTitleEnabled(false)
 
         val userId: EditText = findViewById(R.id.username_edittext)
         val pass: EditText = findViewById(R.id.password_edittext)
